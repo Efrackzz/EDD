@@ -1,0 +1,14 @@
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\bin\Debug\net8.0\RevisionDeCodigoPila.exe
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\bin\Debug\net8.0\RevisionDeCodigoPila.deps.json
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\bin\Debug\net8.0\RevisionDeCodigoPila.runtimeconfig.json
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\bin\Debug\net8.0\RevisionDeCodigoPila.dll
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\bin\Debug\net8.0\RevisionDeCodigoPila.pdb
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\RevisionDeCodigoPila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\RevisionDeCodigoPila.AssemblyInfoInputs.cache
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\RevisionDeCodigoPila.AssemblyInfo.cs
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\RevisionDeCodigoPila.csproj.CoreCompileInputs.cache
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\RevisionDeCodigoPila.dll
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\refint\RevisionDeCodigoPila.dll
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\RevisionDeCodigoPila.pdb
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\RevisionDeCodigoPila.genruntimeconfig.cache
+C:\Users\Efrack\Documents\RevisionDeCodigoPila\obj\Debug\net8.0\ref\RevisionDeCodigoPila.dll

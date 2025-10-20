@@ -1,0 +1,14 @@
+C:\Users\Efrack\Documents\RevisionPalindromo\bin\Debug\net8.0\RevisionPalindromo.exe
+C:\Users\Efrack\Documents\RevisionPalindromo\bin\Debug\net8.0\RevisionPalindromo.deps.json
+C:\Users\Efrack\Documents\RevisionPalindromo\bin\Debug\net8.0\RevisionPalindromo.runtimeconfig.json
+C:\Users\Efrack\Documents\RevisionPalindromo\bin\Debug\net8.0\RevisionPalindromo.dll
+C:\Users\Efrack\Documents\RevisionPalindromo\bin\Debug\net8.0\RevisionPalindromo.pdb
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\RevisionPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\RevisionPalindromo.AssemblyInfoInputs.cache
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\RevisionPalindromo.AssemblyInfo.cs
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\RevisionPalindromo.csproj.CoreCompileInputs.cache
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\RevisionPalindromo.dll
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\refint\RevisionPalindromo.dll
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\RevisionPalindromo.pdb
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\RevisionPalindromo.genruntimeconfig.cache
+C:\Users\Efrack\Documents\RevisionPalindromo\obj\Debug\net8.0\ref\RevisionPalindromo.dll
